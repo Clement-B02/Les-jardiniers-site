@@ -1,0 +1,23 @@
+Création d'un site qui propose des services de jardinnage
+en tout genre.
+*une navbar ( Acceuil /   
+Nos prestation / Se connecter / Qui sommes nous? )
+* une image de fond
+* nom de l'entreprise / sloggan
+
+*Premier bloc
+présentation de l'entreprise et ce que nous fesons
+* 3 photos cliquable ( Abonements / Nos prestaions / Devis)
+regler le probleme de margin blanc
+-----
+
+creation d'une section avis 
+voir pour integrer les photo au css plutot que html
+
+harmonisation du site 
+mettre le CSS au propre
+ajout d'un small en dessous de contact
+@media gerer le responsive
+pourquoi pas y ajouter un commerce ( vente de machine, d'outils etc )
+trouver pk les presta ne sont pas exactement aligné
+ajouter un systeme de surlignement dans le nav plutot que transform + opac
